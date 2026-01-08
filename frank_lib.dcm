@@ -1,0 +1,70 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3V3
+D 3V3 output
+K 3V3 output
+$ENDCMP
+#
+$CMP Conn_01x02_fixed
+D Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x02_screw
+D Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x06_usb
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x06_usb_type_c
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x09_Female_pico
+D Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP HC_SR04
+D Ultrasonic Ranging module (5V)
+$ENDCMP
+#
+$CMP LoRa
+D RYLR998 transceiver module
+$ENDCMP
+#
+$CMP R_original
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP VSYS
+D Pico Power
+K power-flag
+$ENDCMP
+#
+$CMP ds3231
+D Real Time Clock Module DS3231 AT24C32 IIC RTC Clock Module High Precision RTC Module 3.3V-5.5V
+K Real Time Clock Module DS3231 AT24C32 IIC RTC Clock Module High Precision RTC Module 3.3V-5.5V
+$ENDCMP
+#
+$CMP step_up_5v
+D  DC-DC Step Up Power Module Voltage Boost Converter Board 0.9-5V to 5V
+$ENDCMP
+#
+$CMP usb_to_ttl
+D HiLetgo FT232RL Mini USB to TTL Serial Converter Adapter Module 3.3V/5.5V
+$ENDCMP
+#
+#End Doc Library

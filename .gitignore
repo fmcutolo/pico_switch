@@ -1,0 +1,23 @@
+#*cache.*
+#*.*bak
+#fp-info-cache
+
+*.xml
+
+
+# KiCad autosave & backups
+_autosave-*
+*.*bak
+*.bck
+
+# KiCad generated/cache files
+fp-info-cache
+*-cache.lib
+*.net
+*.erc
+
+# Temporary / scratch
+scratch/
+
+# Archives (optional)
+*.zip
