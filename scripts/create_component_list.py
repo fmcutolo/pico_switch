@@ -1,9 +1,21 @@
 #exec(open("scripts\create_component_list.py").read())
-import pcbnew
+#import pcbnew
 import csv
 import os
 
 # Get the current board
+
+path = "scratch"
+
+if not os.path.isdir(path):
+    print("creating the directory: %s" %path)
+    os.makedirs(path)
+    
+csv_file_location = path + "\component_list.csv"
+
+
+
+
 board = pcbnew.GetBoard()
 csv_file_location =  "scratch\component_list.csv"
 
