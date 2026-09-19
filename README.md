@@ -1,5 +1,5 @@
 
-## Table of Contnts
+## Table of Contents
 - [Issues](#issues)
 - [Datasheets](#datasheets)
   - [Pico](#pico)
@@ -9,6 +9,11 @@
 
 
 # Issues
+9/19/26  
+
+I discovered that the last change in the file pico_switch.pro was not checked in. I can't remember why that change is there and what it does, except that it contains more info and settings. From what I learned online, chatgpt, is that *.pro file does not affect schematic or pcbnew. 
+When this change occurred, there was an issue with the allpcb fabricator regarding whole-to-whole spacing which was resolved. I'm not sure if this change related to that, the two files below shows the details of that. I'm including these files here just in case I may need th
+
 [allpcb hole-to-hole spacing issue](images/issues_from_all_pcb.pdf)
 
 [hole-to-hole affected area](images/allpcb_issue.jpg)
