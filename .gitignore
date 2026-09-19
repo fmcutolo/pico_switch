@@ -2,6 +2,11 @@
 #*.*bak
 #fp-info-cache
 
+# Not sure where/when the following images were use,
+# so I will not put them under source control, I'll keep'em around for a while
+releases/saved_images
+
+
 *.xml
 
 
